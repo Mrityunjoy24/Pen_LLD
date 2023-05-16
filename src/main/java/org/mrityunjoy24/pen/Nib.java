@@ -1,4 +1,4 @@
-package org.mrityunjoy24;
+package org.mrityunjoy24.pen;
 
 public class Nib {
     private double radius;

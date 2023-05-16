@@ -1,4 +1,4 @@
-package org.mrityunjoy24;
+package org.mrityunjoy24.pen;
 
 public enum ColorEnum {
     BLACK,
